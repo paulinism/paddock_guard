@@ -168,8 +168,6 @@ python tests/test_cv_inference.py
 
 ## 📞 Contribuciones
 
-**Responsables del proyecto:**
-- Team Manager: [-]
 - Desarrollo DB: [Paulina R.]
 - Desarrollo CV: [Paulina R.]
 
